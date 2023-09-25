@@ -1,0 +1,16 @@
+form {
+    background-color: whitesmoke;
+    max-width: 400px;
+}
+
+h1 {
+    text-align: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+

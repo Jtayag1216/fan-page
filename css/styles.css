@@ -1,0 +1,52 @@
+body {
+    background-color:#eee;
+    font-family: 'Courier New', Courier, monospace;
+    color: #004C54
+}
+
+header {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #004C54;
+    font-size: 35px;
+}
+
+img {
+    height: 400x;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Jalen-quote {
+    text-align: center;
+    text-decoration: none;
+    font-size: large;
+}
+
+main h2 {
+    text-align: left;
+    text-decoration: underline;
+}
+
+table {
+    text-align: left;
+    font-size: 20px;
+}
+
+th, td {
+    width: 500px;
+    height: 30px;
+    text-align: left;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: large;
+}
+
+li {
+    font-size: larger;
+    font-weight: bold;
+}
